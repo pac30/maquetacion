@@ -1,0 +1,163 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.caja1{
+    align-items: center;
+    height: 200px;
+    width: 100%;
+    background-color: blue;
+}
+.caja2{
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    background-color: yellowgreen;
+}
+.caja3{
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    background-color: yellowgreen;
+}
+.caja4{
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    background-color: yellowgreen;
+}
+.caja5{
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    background-color: yellowgreen;
+}
+.caja6{
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    background-color: yellowgreen;
+}
+.caja7{
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    background-color: yellowgreen;
+}    
+.caja8{
+    align-items: center;
+    height: 200px;
+    width: 100%;
+    background-color: yellow;
+} 
+.caja9{
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    background-color: hotpink;
+}
+.caja10{
+    align-items: center;
+    height: 25rem;
+    background-color: palegreen;
+    margin-right: 10px;
+}    
+.caja11{
+    align-items: center;
+    height: 25rem;
+    background-color: indianred;
+    margin-left: 10px;
+}
+.alturaBlanco{
+    align-items: center;
+    height: 5rem;
+    background-color: white;
+}
+.caja12{
+    align-items: center;
+    height: 20rem;
+    background-color: aquamarine;
+    margin-right: 10px;
+}
+.caja13{
+    align-items: center;
+    height: 20rem;
+    background-color: antiquewhite;
+}
+.caja14{
+    align-items: center;
+    height: 20rem;
+    background-color: lawngreen;
+    margin-left: 10px;
+}
+.division{
+    padding-top: 10px;
+}
+.caja15{
+    align-items: center;
+    height: 25rem;
+    background-color: indianred;
+    margin-right: 10px;
+}    
+.caja16{
+    align-items: center;
+    height: 25rem;
+    background-color: palegreen;
+    margin-right: 10px;    
+}
+.raya{
+    display: flex;
+    justify-content: center;
+    border: 1px solid gainsboro;
+}
+.caja17{
+    align-items: center;
+    height: 25rem;
+    background-color: tomato;
+    margin-right: 10px; 
+}
+.caja18{
+    align-items: center;
+    height: 25rem;
+    background-color: salmon;
+    margin-left: 10px; 
+}
+.caja19{
+    align-items: center;
+    height: 25rem;
+    background-color: palevioletred;
+    margin-left: 10px; 
+}
+.caja20{
+    align-items: center;
+    height: 25rem;
+    background-color: orangered;
+    margin-right: 10px; 
+}
+.caja21{
+    align-items: center;
+    height: 25rem;
+    background-color: purple;
+    margin-left: 10px; 
+}
+.caja22{
+    align-items: center;
+    height: 25rem;
+    background-color: pink;
+    margin-left: 10px; 
+}
+.caja23{
+    align-items: center;
+    height: 1000%;
+    width: 100%;
+    background-color: cyan;
+} 
+.caja24{
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: red;
+}   
